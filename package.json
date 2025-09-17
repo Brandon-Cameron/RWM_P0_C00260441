@@ -9,7 +9,8 @@
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch", "test":"vitest"
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"test": "vitest"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",
@@ -21,5 +22,8 @@
 		"typescript": "^5.0.0",
 		"vite": "^7.0.4",
 		"vitest": "^3.2.4"
+	},
+	"dependencies": {
+		"peer-filter-c87654321": "github:ryanholloway/RWM_P0_C00283423#v0.1.1"
 	}
 }
