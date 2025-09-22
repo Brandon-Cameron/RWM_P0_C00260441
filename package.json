@@ -25,5 +25,8 @@
 	},
 	"dependencies": {
 		"peer-filter-c87654321": "github:ryanholloway/RWM_P0_C00283423#v0.1.1"
+	},
+	"scripts": {
+		"emit:results": "npx tsx src/scripts/emit-results.mjs"
 	}
 }
