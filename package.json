@@ -1,7 +1,8 @@
 {
-  "name": "peer-filter-c00260441",	
+  "name": "peer-filter-c00260441",			
+  "version": "0.1.0",					
   "type": "module",
   "exports": {
-    ".": "./Sprint 1/src/lib/filters/fact.ts"
+    ".": "./Sprint 1/src/lib/filters/fact.ts"	
   }
 }

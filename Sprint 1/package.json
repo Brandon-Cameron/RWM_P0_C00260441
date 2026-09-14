@@ -29,6 +29,6 @@
 	},
 	
   	"dependencies": {
-    	"peer-filter-c87654321": "github:DagarDhruv/RWM_P0_C00303423#v0.1.0"
+    	"peer-filter-c87654321": "github:DagarDhruv/RWM_P0_C00303423#v0.1.2"
   	}
 }
