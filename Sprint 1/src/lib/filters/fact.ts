@@ -1,6 +1,6 @@
 export function fact(x: number): number {
-    if (x = 0) {
-        return 0;
+    if (x === 0 || x === 1) {
+        return 1;
     }
     
     let i = x - 1;
