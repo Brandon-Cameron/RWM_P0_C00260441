@@ -1,5 +1,5 @@
 export function fact(x: number): number {
-    let i = x;
+    let i = x - 1;
     while (i != 0) {
         x *= i;
         i--;
