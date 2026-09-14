@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { cubes } from "$lib/filters/cube";
+import { cubes } from "$lib/filters";
 
 describe('Cube Filter', () => {
     it('cubes a sequence', () => {
