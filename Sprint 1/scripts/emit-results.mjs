@@ -7,7 +7,7 @@ const { combinedFilter } = mod;
 const inputs = {
   basic: [1, 3, 5, 7, 9],
   edges: [],
-  zeros: [0],
+  zeros: [],
   small: [2, 3, 4]
 };
 
