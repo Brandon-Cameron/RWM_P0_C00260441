@@ -5,7 +5,8 @@
     export let onToggle;
 
     function handleChange() {
-        console.log("test")
+         onToggle?.({ id, done });
+         console.log("compo test");
     }
     
 </script>
